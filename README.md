@@ -1,3 +1,4 @@
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT &size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+&#128075;+I'm+3bbas;CS+Student+&#128187;;Love+to+learn+new+things;Competitive+Programmer;ECPC+Finalist" alt="Typing SVG" /></a>
 </p>
@@ -22,3 +23,13 @@
 <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api?username=A-3bbas&theme=one_dark_pro&show_icons=true" alt="A-3bbas" height="240px"/>
 </p>
+
+ <br>
+
+ <hr>
+
+ <br>
+ 
+<p align="center">
+ <a><img src="https://streak-stats.demolab.com?user=A-3bbas&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+ </p>
