@@ -37,7 +37,7 @@
 </p>
 <br><hr> <br>
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api?username=3bbaas&theme=one_dark_pro&show_icons=true" alt="3bbaas" height="240px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=3bbaas&theme=github-dark-blue&show_icons=true" alt="3bbaas" height="240px"/>
 </p>
 
  <br>
