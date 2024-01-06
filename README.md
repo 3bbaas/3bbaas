@@ -37,7 +37,7 @@
 </p>
 <br><hr> <br>
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api?username=A-3bbas&theme=one_dark_pro&show_icons=true" alt="A-3bbas" height="240px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=3bbaas&theme=one_dark_pro&show_icons=true" alt="3bbaas" height="240px"/>
 </p>
 
  <br>
@@ -47,5 +47,5 @@
  <br>
  
 <p align="center">
- <a><img src="https://streak-stats.demolab.com?user=A-3bbas&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+ <a><img src="https://streak-stats.demolab.com?user=3bbaas&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  </p>
